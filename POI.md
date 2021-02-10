@@ -1,5 +1,6 @@
 # POI
 POI TOTALI(18)
+
 POI ARTISTICI (5)
 - Museo del Violino
 - Museo Verticale del Torrazzo di Cremona
