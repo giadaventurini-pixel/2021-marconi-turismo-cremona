@@ -7,6 +7,7 @@ POI ARTISTICI (5)
 - Museo Civico Ala Ponzona
 - Museo Archeologico San Lorenzo 
 - Museo della Civiltà Contadina
+
 POI MONUMENTALI (13)
 - Cattedrale di Santa Maria Assunta
 - Loggia dei Militi
