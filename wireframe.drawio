@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T08:40:00.807Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" version="14.2.9" etag="eIIvOab7V5vVDTZz89ym" type="github"><diagram id="YthMqaOs65mo5rI_AoZ5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-27T11:49:01.678Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="QfRulS-cQSuPnBZd-RTB" version="14.2.9" type="github">
+  <diagram id="YthMqaOs65mo5rI_AoZ5" name="Page-1">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t3DNWwngWs0hsKhfAY4w-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.tab2;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="140" y="150" width="686" height="472" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DNWwngWs0hsKhfAY4w-9" value="&lt;font style=&quot;vertical-align: inherit; font-size: 19px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 19px;&quot;&gt;PASSWORD&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="470" y="400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DNWwngWs0hsKhfAY4w-10" value="&lt;font style=&quot;vertical-align: inherit; font-size: 19px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 19px;&quot;&gt;USERNAME&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="460" y="290" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DNWwngWs0hsKhfAY4w-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DNWwngWs0hsKhfAY4w-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="400" y="430" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DNWwngWs0hsKhfAY4w-14" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;LOGIN&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="470" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DNWwngWs0hsKhfAY4w-16" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;SUBMIT&lt;/font&gt;&lt;/font&gt;" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="430.25" y="510" width="105.5" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DNWwngWs0hsKhfAY4w-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.tab2;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="140" y="870" width="686" height="472" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DNWwngWs0hsKhfAY4w-18" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Ciao MARIO VERDI&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="190" y="940" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DNWwngWs0hsKhfAY4w-47" value="PACCHETTO ARGENTO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="1000" width="195" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DNWwngWs0hsKhfAY4w-48" value="POI rimanenti: 6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="392.5" y="1096" width="195" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DNWwngWs0hsKhfAY4w-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=19;" edge="1" parent="1" source="t3DNWwngWs0hsKhfAY4w-47" target="t3DNWwngWs0hsKhfAY4w-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DNWwngWs0hsKhfAY4w-50" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.tab2;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="468" width="686" height="472" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DNWwngWs0hsKhfAY4w-51" value="NAVIGATION" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="437.25" y="1200" width="105.5" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DNWwngWs0hsKhfAY4w-52" value="MUSEO DEL VIOLINO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1440.75" y="550" width="244.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DNWwngWs0hsKhfAY4w-53" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.map;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="644" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DNWwngWs0hsKhfAY4w-59" value="Piazza Guglielmo Marconi, 5, 26100&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1315.5" y="660" width="394.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DNWwngWs0hsKhfAY4w-60" value="Ora aperto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="722" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DNWwngWs0hsKhfAY4w-61" value="Fondazione: 1893" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="780" width="394.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t3DNWwngWs0hsKhfAY4w-62" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.tab2;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="960" width="686" height="472" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
