@@ -10,13 +10,6 @@ Come amministratore, voglio avere una sitemap del sito per avere una visione di 
 - specificare se alcune azioni sono svolte dall'operatore dell'infopoint
 
 # Storia 3
-Come utente, voglio visualizzare una pagina con i dettagli del POI in cui mi trovo, per poter avere informazioni aggiuntive.
-- nella pagina deve essere presente un video di presentazione con più informazioni
-- ci devono essere delle immagini (max 3) per poter vedere il punto di interesse al volo
-- le immagini devono avere una didascalia
-
-
-# Storia 4
 Come amministratore, voglio poter vedere un wireframe preliminare del sito accessibile dai tablet.
 
 
