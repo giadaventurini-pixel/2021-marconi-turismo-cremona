@@ -1,16 +1,18 @@
 # Storia 1
-Come amministratore, voglio che il tablet possa pingare il server, per verificare che la connessione sia corretta.
-- il piano di indirizzamento di internet deve essere con IP pubblici
-- anche il server o ha un indirizzamento IP pubblico oppure è sotto NAT
+Piano di indirizzamento usando ip pubblici per Internet e ping tra tablet e server.
 
 # Storia 2
-Come amministratore, voglio avere una sitemap del sito per avere una visione di insieme di tutto il progetto.
-- mi interessa solo la parte fruibile da tablet 
-- opzionale una eventuale parte da fruire a casa prima della visita
-- specificare se alcune azioni sono svolte dall'operatore dell'infopoint
+Realizzazione della sitemap del sito, sia la parte fruibile da tablet, sia la parte da 
+fruire a casa prima della visita.
 
 # Storia 3
-Come amministratore, voglio poter vedere un wireframe preliminare del sito accessibile dai tablet.
+Implementazione del wireframe preliminare del login, della pagina personale con i POI e 
+del sito del POI scelto(con navigatore e info aggiuntive, foto e video presentazione).
+
+# Storia 4
+Implementazione della pagina logine home con html e css. Minima e prima implementazione della
+pagina POI con html e css.
+
 
 
 
