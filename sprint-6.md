@@ -8,3 +8,11 @@ lista poi vengono caricati in maniera dinamica dall'index php che è la parte ba
 
 # Storia 3
 Revisione dell'implementazione delle pagine login e logout con php. (1 punto)
+
+
+# Review
+- OK
+- OK
+- KO
+
+Punteggio: 5/6 (83%)
