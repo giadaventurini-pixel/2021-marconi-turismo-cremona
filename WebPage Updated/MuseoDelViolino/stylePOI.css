@@ -1,0 +1,67 @@
+.fotomappa
+{
+  float: right;
+  width: 270px; 
+	padding-top: 40px;
+	padding-right: 50px;
+}
+
+.p_descrizione
+{
+	text-align: center;
+	padding: 20px;
+	padding-top: 40px;
+}
+
+.div_multimedia
+{
+	width: auto;
+	height: 200px;
+}
+
+.foto_museo_sx
+{
+  float: left;
+  width: 250px; 
+	padding-top: 20px;
+	padding-left: 80px;
+	padding-right: 50px;
+}
+
+.video_museo
+{
+  float: right;
+	padding: 20px;
+}
+
+.descrizione_poi
+{
+	padding-top: 40px;
+}
+
+ul
+{
+  list-style-type: none;
+	padding-top: 40px;
+}
+
+li
+{
+	padding-left: 40px;
+	padding-top: 5px;
+}
+
+body
+{
+	text-align: center;
+}
+
+.orario
+{
+	color: green;
+}
+
+.infopoi
+{
+	text-align: left;
+}
