@@ -8,26 +8,29 @@
   </head>
   <body>
     <div>
-      <h1>MUSEO DEL VIOLINO</h1>
+      <h1><span id="nome_poi"></span></h1>
     </div>
 		<div class="infopoi">
-      <img class="fotomappa" src="./Image/mappa.png" alt="mappa">
+      <span id="foto_mappa"></span>
 			<ul>
-      	<li><p>Piazza Guglielmo Marconi, 5, 26100</p></li>
-      	<li><p class = "orario">Ora aperto</p></li>
-      	<li><p>Fondazione: 1893</p></li>
+				<span id="info_poi"></span>
+      	
+      	
+      
 			</ul>
     </div>
 		<div class="descrizione_poi">
 			<div class="div_multimedia">
-			<img class="foto_museo_sx" src="./Image/museo_da_fuori.jpg" alt="Museo da fuori">
-      <p class="p_descrizione">Il Museo del Violino è un museo musicale situato a Cremona. Il museo è noto soprattutto per la sua collezione di strumenti ad arco che comprende anche violini, viole, violoncelli e contrabbassi di rinomati liutai, tra cui Antonio Stradivari e Giuseppe Guarneri del Gesù.</p>
+			<span id="foto_museo_fuori"></span>
+			<span id="descrizione_poi"></span>
 			</div>
 			<div class="div_multimedia">
-			<img class="foto_museo_sx" src="./Image/museo_interno.jpg" alt="Museo interno">
-			<iframe class="video_museo" width="270" height="145" src="https://www.youtube.com/embed/5jPuiHlLZdg" frameborder="0" allowfullscreen></iframe>
+			<span id="foto_museo_dentro"></span>
+			<span id="video_yt"></span>
 			</div>
 		</div>
 		<a href = "index.html" tite = "Home">Home
+		<script src="jquery-3.6.0.min.js"></script>
+    <script src="create_poi.js"></script>
   </body>
 </html>
